@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img width="407" alt="Screenshot 2023-09-29 at 8 11 59 PM" src="https://github.com/lucasfregoso/network-file-share/assets/144977615/8cb6f1a2-4c08-4767-a7f4-ed2823c44f80">
 </p>
 
 <h1>Network Files Shares and Permissions</h1>
