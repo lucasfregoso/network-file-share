@@ -30,6 +30,6 @@ Stage 1
 <img width="1385" alt="Screenshot 2023-09-27 at 4 38 37 PM" src="https://github.com/lucasfregoso/ticket-lifecycle/assets/144977615/66d3b0ad-6a7b-4ac5-8b49-fe500cc79816">
 </p>
 <p>
-In this lab we will also have the same virtual machines as in the Active Directory lab with DC-1 and Client 1 while being logged in to both of them, with Client 1 being logged in as one of our auto generated users that we created in Active Directory lab. 
+In this lab we will also have the same virtual machines as in the Active Directory lab with DC-1 and Client 1 while being logged in to both of them, with Client 1 being logged in as one of our auto generated users that we created in Active Directory lab. Firstly, we are going to create a few folders named:  “read-access”, “write-access”, “no-access”, “accounting." For the folder “read-access”, we will put it the group “Domain Users”, and the permission we will give it will be “Read." For the next folder “write-access”, we will put it the group “Domain Users”, and the permission we will give it will be “Read/Write." For the third folder “no-access”, we will put it the group “Domain Admins”, and the permission we will give it will be “Read/Write."
 </p>
 <br />
