@@ -44,8 +44,14 @@ Next, on Client 1 we go to the shared file (\\dc-1) and we just test out the per
 <br />
 
 
-
-
+Stage 3
+<p>
+<img width="1614" alt="Screenshot 2023-09-29 at 8 35 41 PM" src="https://github.com/lucasfregoso/network-file-share/assets/144977615/c5347ca2-19c1-4a07-b1e8-3cf6d227192b">
+</p>
+<p>
+Lastly, we go ahead and create an "ACCOUNTANTS" security group and test access with our user in Client 1. So, first we go back to DC-1 and in active directory we create a security group called "ACCOUNTANTS" and then on our "accounting" folder we set these permissions as follows with the “accounting” folder in the group “ACCOUNTANTS” and the permissions being “Read/Write." Then, going back to Client 1 we try and access the folder and notice that we come to a fail, but then to fix this we go to DC-1 and make our user that is logged into Client 1 (which is bal.ger from our list of users) a member of the "ACCOUNTANTS" security group. Now we'll log out and right back in and test to see if we can open the folder and now we are able to.
+</p>
+<br />
 
 
 
