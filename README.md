@@ -47,7 +47,7 @@ Next, on Client 1 we go to the shared file (\\dc-1) and we just test out the per
 Stage 3
 <p>
 <img width="1614" alt="Screenshot 2023-09-29 at 8 48 28 PM" src="https://github.com/lucasfregoso/network-file-share/assets/144977615/a64dedbb-dbdb-44e3-b72e-2c2a2381a2b3">
--------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
 <img width="1372" alt="Screenshot 2023-09-29 at 8 49 04 PM" src="https://github.com/lucasfregoso/network-file-share/assets/144977615/dddebad0-e030-44b7-a06a-8be65e6fdda3">
 </p>
 <p>
